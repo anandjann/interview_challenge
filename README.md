@@ -1,4 +1,4 @@
-# interview_challenge
+# Interview Challenge
 
 1. A program to fetch the historical prices and dates of gold and silver from these 2 URLs:
 
